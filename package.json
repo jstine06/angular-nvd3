@@ -1,7 +1,7 @@
 {
   "title": "AngularJS-nvD3",
   "name": "angular-nvd3-ghost",
-  "version": "1.0.8-beta.2",
+  "version": "1.0.8",
   "description": "An AngularJS directive for NVD3.js reusable charting library",
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
   "dependencies": {
     "angular": "^1.x",
     "d3": "^3.3",
-    "nvd3-ghost": "1.8.2-beta.1"
+    "nvd3-ghost": "1.8.2"
   },
   "devDependencies": {
     "angular-mocks": "^1.x",
