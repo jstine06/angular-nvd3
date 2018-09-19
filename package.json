@@ -1,12 +1,11 @@
 {
   "title": "AngularJS-nvD3",
-  "name": "angular-nvd3",
-  "version": "1.0.8",
+  "name": "angular-nvd3-ghost",
+  "version": "1.0.8-beta.1",
   "description": "An AngularJS directive for NVD3.js reusable charting library",
-  "homepage": "http://krispo.github.io/angular-nvd3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/krispo/angular-nvd3.git"
+    "url": "https://github.com/jstine06/angular-nvd3.git"
   },
   "main": "index.js",
   "keywords": [
@@ -18,17 +17,11 @@
     "charts",
     "svg"
   ],
-  "bugs": {
-    "url": "https://github.com/krispo/angular-nvd3/issues"
-  },
   "license": "MIT",
-  "author": {
-    "name": "Konstantin Skipor"
-  },
   "dependencies": {
     "angular": "^1.x",
     "d3": "^3.3",
-    "nvd3": "^1.7.1"
+    "nvd3-ghost": "1.8.2-beta.1"
   },
   "devDependencies": {
     "angular-mocks": "^1.x",
