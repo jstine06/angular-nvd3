@@ -1,2 +1,2 @@
-require('./dist/angular-nvd3');
+require('./dist/angular-nvd3-ghost');
 module.exports = 'nvd3';
